@@ -1,3 +1,10 @@
+## DAILY FOOD LOG FULL STACK APPLICATION 
+
+![alt tag](foodlogSS.png)
+
+This is my first full stack application that I built that essentially gives the user the ability to sign in, sign up for an account and be able to log their food throughout the day and also an estimate for the calories as well.
+
+
 ## Installation
 
 1. Clone repo
@@ -7,7 +14,3 @@
 
 1. run `node server.js`
 2. Navigate to `localhost:8080`
-
-## Credit
-
-Modified from Scotch.io's auth tutorial
